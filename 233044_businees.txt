@@ -1,0 +1,17 @@
+Employer login page
+employee have login page
+where his id , name,  having project details, his organization and his manager details be feed.
+
+Job Seeker login page
+login id, name, cv, skills,status, joining date, project details.
+
+
+HR Login page
+hr_login id, name, his admin, department  
+
+Project Details
+project_id, project_name, Employer_id 
+
+
+Admin login page
+Admin_login, admin_name, organization_name
